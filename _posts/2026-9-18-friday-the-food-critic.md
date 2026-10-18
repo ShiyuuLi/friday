@@ -15,7 +15,7 @@ image:
 pin: false
 ---
 
-# Friday, the Very Selective Food Critic
+# The Very Selective Food Critic
 
 Eating in front of Friday is never a private activity.
 Whatever I'm having, she needs to investigate. A tortilla wrap? Interesting. Cheese and ham? Very interesting. Even a bell pepper deserves a thorough inspection. I don't think she understands what human food is supposed to be. She just knows that if I'm eating it, it must be important.

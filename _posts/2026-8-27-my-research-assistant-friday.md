@@ -15,7 +15,7 @@ image:
 pin: false
 ---
 
-# Meet My Research Assistant, Friday
+# Meet My Research Assistant
 
 I have a research assistant now. Her name is Friday, and unfortunately, she's not very good at typing.
 
