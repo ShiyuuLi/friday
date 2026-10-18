@@ -29,7 +29,7 @@ I can't say she has a very predictable daytime schedule. But her nighttime sleep
 Every night, Friday sleeps right next to my pillow.
 And somehow, we've developed the habit of holding hands while we sleep. Sometimes I reach my hand toward her, and she rests her little head on it, as though I've thoughtfully provided her with a pillow.
 
-![Friday sleeping by my pillow](assets/img/posts/2026-10-17/pillow.jpg)
+![Friday sleeping by my pillow](assets/img/posts/2026-10-6/pillow.jpg)
 _Friday's favorite nighttime spot._
 
 
