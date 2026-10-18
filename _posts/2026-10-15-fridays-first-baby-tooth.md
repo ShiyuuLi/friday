@@ -11,7 +11,7 @@ tags:
 render_with_liquid: false
 
 image:
-  path: /assets/img/posts/2026-10-17/tooth-cover.jpg
+  path: /assets/img/posts/2026-10-15/tooth-cover.jpg
   alt: Friday's baby canine tooth
 pin: false
 ---

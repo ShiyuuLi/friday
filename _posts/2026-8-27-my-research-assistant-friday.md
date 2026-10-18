@@ -9,9 +9,8 @@ tags:
   - keyboard
   - phd-life
 render_with_liquid: false
-Uncomment the following lines after adding a cover photo.
 image:
-  path: /assets/img/posts/2026-10-17/keyboard-cover.jpg
+  path: /assets/img/posts/2026-8-27/keyboard-cover.jpg
   alt: Friday is here to help
 pin: false
 ---

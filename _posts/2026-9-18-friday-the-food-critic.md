@@ -9,10 +9,9 @@ tags:
   - food
   - kitten-life
 render_with_liquid: false
-# Uncomment the following lines after adding a cover photo.
-# image:
-#   path: /assets/img/posts/2026-10-17/food-cover.jpg
-#   alt: Friday inspecting my food
+image:
+  path: /assets/img/posts/2026-9-18/food-cover.jpg
+  alt: Friday trying to inspect my food
 pin: false
 ---
 

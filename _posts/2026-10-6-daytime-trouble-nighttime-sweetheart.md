@@ -11,7 +11,7 @@ tags:
 render_with_liquid: false
 
 image:
-  path: /assets/img/posts/2026-10-17/sleeping-cover.jpg
+  path: /assets/img/posts/2026-10-6/sleeping-cover.jpg
   alt: Friday sleeping beside my pillow
 pin: false
 ---
