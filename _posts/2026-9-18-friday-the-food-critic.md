@@ -1,13 +1,12 @@
 ---
-title: Friday, the Very Selective Food Critic
+title: The Very Selective Food Critic
 author: Shiyu
 date: 2026-9-18 21:00:00 -0400
 categories:
   - Life
   - Growing up
 tags:
-  - food
-  - kitten-life
+  - 4 months
 render_with_liquid: false
 image:
   path: /assets/img/posts/2026-9-18/food-cover.jpg

@@ -6,8 +6,7 @@ categories:
   - Life
   - Growing up
 tags:
-  - teething
-  - growing-up
+  - 5 months
 render_with_liquid: false
 
 image:

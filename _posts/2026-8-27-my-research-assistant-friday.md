@@ -1,5 +1,5 @@
 ---
-title: Meet My Research Assistant, Friday
+title: Meet My Research Assistant
 author: Shiyu
 date: 2026-8-27 21:30:00 -0400
 categories:
